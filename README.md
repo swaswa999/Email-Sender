@@ -1,2 +1,2 @@
-# Email-Sender
-This is a simple e-mail sender coded in python.
+# Spam_E-mail_sender
+This is a simple e-mail sender to spam e-mail to people.
